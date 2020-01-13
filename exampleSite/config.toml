@@ -1,4 +1,4 @@
-baseURL = "https://www.jalome.studio"
+baseURL = "https://ai-site.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
